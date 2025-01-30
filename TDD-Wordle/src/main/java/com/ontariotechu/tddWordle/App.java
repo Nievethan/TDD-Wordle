@@ -1,5 +1,7 @@
 package com.ontariotechu.tddWordle;
 
+import java.util.Random;
+
 /**
  * Hello world!
  */
